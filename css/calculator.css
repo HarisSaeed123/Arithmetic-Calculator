@@ -1,0 +1,89 @@
+/* CSS code */
+body{
+    background-color: black;
+}
+.container{
+    width: 300px;
+    height: 400px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 10%;
+    background-color: lightgray;
+}
+h1{
+    color: white;
+}
+#value{
+    margin-left: 45px;
+    margin-top: 40px;
+    height: 25px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.button{
+    margin-left: 50px;
+}
+.button button{
+    cursor: pointer;
+    width: 30px;
+    font-weight: bold;
+    font-size: 20px;
+}
+/* .button #minusOp{
+    width: 23.4219px;
+}
+.button #divOp{
+    width: 23.4219px;
+}
+.button #cancel{
+    width: 23.4219px;
+}
+.button #mulOp{
+    width: 23.4219px;
+} */
+#two{
+    margin-left: 22px;
+}
+#three{
+    margin-left: 22px;
+}
+#plusOp{
+    margin-left: 22px;
+}
+#five{
+    margin-left: 22px;
+}
+#six{
+    margin-left: 22px;
+}
+#minusOp{
+    margin-left: 22px;
+}
+#eight{
+    margin-left: 22px;
+}
+#nine{
+    margin-left: 22px;
+}
+#divOp{
+    margin-left: 22px;
+}
+#isEqualTo{
+    margin-left: 22px;
+}
+#zero{
+    margin-left: 22px;
+}
+#cancel{
+    margin-left: 22px;
+}
+.button #clear{
+    width: 200px;
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+}
+
